@@ -1,0 +1,11 @@
+#title{
+    text-align: center;
+}
+  
+#lista{
+    width: 576px;
+    max-width: calc(100% - 20px);
+
+    margin-left: auto;
+    margin-right: auto;
+}
