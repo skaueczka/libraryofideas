@@ -1,3 +1,3 @@
 # Library of Ideas
 
-Link do strony: https://kanashii-iwa.github.io/libertarianlibrary/ 
+Link do strony: https://kanashii-iwa.github.io/libraryofideas/
