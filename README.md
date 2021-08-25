@@ -1,3 +1,3 @@
 # Library of Ideas
 
-Link do strony: https://kanashii-iwa.github.io/libraryofideas/
+Link do strony: https://skaueczka.github.io/libraryofideas/
