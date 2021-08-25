@@ -1,3 +1,3 @@
 # Library of Ideas
 
-Link do strony: https://libraryofideas.me
+Link do strony: http://libraryofideas.me
